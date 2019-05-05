@@ -7,7 +7,7 @@ subtitle: Hi. I'm Shakeel, an electronics enthusiast and student.
 This website is a glimpse of my progress, ideas and adventures in electronics.  
 
 ### Why BlinkMaker?
-My username is based on two personally meaningful words:
+It is based on two personally meaningful words:
 * 'Blink': For beginners starting out in electronics or even seasoned veterans working with new microcontrollers and various programming languages, usually it all starts with blinking an LED. It is like the 'Hello, World!' of programming, but for electronics.  
 * 'Maker': I am passionate about the Maker Movement and how people put some much effort to share what their knowledge and even help others, most of the time, for free. It brings together people who share the same interests and helps others discover something that they might want to get involved or explore on their own.
 
