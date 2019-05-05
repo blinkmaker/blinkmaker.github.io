@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Hi. I'm Shakeel, an electronics enthusiast and student.
-
+subtitle: Why you'd want to go on a date with me
 ---
 
+Hi. I'm Shakeel, an electronics enthusiast and student.
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
