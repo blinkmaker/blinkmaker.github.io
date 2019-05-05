@@ -23,7 +23,7 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "home"
+  Home: ""
   Resources:
     - Instructables: "http://deanattali.com/beautiful-jekyll/"
     - GitHub: "http://www.markdowntutorial.com/"
