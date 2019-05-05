@@ -4,7 +4,8 @@ title: About me
 subtitle: Hi. I'm Shakeel, an electronics enthusiast and student.
 ---
 
-This website is a glimpse of my progress, ideas and adventures in electronics. 
+This website is a glimpse of my progress, ideas and adventures in electronics. Why BlinkMaker? Well, it's actually based on two words. 'Blink': When starting out in electronics or even for seasoned veterans, with new devices, like microntrollers or when experimenting with different programming software, usually it all starts with blinking an LED. It is like the 'Hello, World!' of programming, but for electronics.  
+'Maker': I am passionate about the Maker Movement and how people put some much effort to share what their knowledge and even help others, most of the time, for free. It brings together people who share the same interests and helps others discover something that they might want to get involved or explore on their own.
 
 ### My inspiration
 I have been very impressed by open source projects which contributed to my own learning. My goal with this website is to promote the same mindset of openly sharing knowledge through my work and ideas. I hope that these open source projects will be useful to other electronic hobbyists, enthusiasts and students.  
