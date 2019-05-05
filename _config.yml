@@ -25,10 +25,10 @@ description: A virtual proof that name is awesome!
 navbar-links:
   Home: ""
   Resources:
-    - Instructables: "http://deanattali.com/beautiful-jekyll/"
-    - GitHub: "http://www.markdowntutorial.com/"
-    - Thingiverse: "https://www.thingiverse.com/WiredMaker/designs"
-    - Instagram: "https://pages.github.com/"
+    - Instructables: "https://www.instructables.com/member/BlinkMaker/"
+    - GitHub: "https://github.com/BlinkMaker"
+    - Thingiverse: "https://www.thingiverse.com/BlinkMaker/designs"
+    - Instagram: "https://www.instagram.com/blinkmaker/"
   About: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
