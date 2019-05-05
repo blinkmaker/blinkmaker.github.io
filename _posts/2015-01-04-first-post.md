@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
-subtitle: Hello Maker!
+title: Hello, Maker!
+subtitle: FORMIBOT
 ---
 
-This is my first post (well, the first one on this platform), how exciting!
+THE FORMIBOT IS A LINE-FOLLOWING ROBOT WITH WIRELESS CONTROL VIA ANDROID APP, OBSTACLE DETECTION, CHECKPOINT SELECTION ALONG THE LINE, LCD TO SHOW CURRENT OR NEXT LOCATION, ETC. ITS NAME IS INSPIRED FROM FORMICA WHICH IS LATIN FOR ANT – A DILIGENT TRAIL OR LINE FOLLOWER.
