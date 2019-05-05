@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hi. I'm Shakeel, an electronics enthusiast and student.
 ---
 
 Hi. I'm Shakeel, an electronics enthusiast and student.
