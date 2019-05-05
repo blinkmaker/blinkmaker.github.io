@@ -73,17 +73,17 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+#  email: "someone@example.com"
+#  facebook: daattali
+  github: blinkmaker
+#  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: blinkmaker
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -93,10 +93,10 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
