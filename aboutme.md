@@ -4,7 +4,7 @@ title: About me
 subtitle: Hi. I'm Shakeel, an electronics enthusiast and student.
 ---
 
-I have been greatly inspired by open source projects which contributed to my own learning. 
-My goal with this website is to promote the same mindset of openly sharing knowledge through my work and ideas. 
-I hope that these open source projects will be useful to other students and hobbyists. 
+I have been greatly inspired by open source projects which contributed to my own learning.  
+My goal with this website is to promote the same mindset of openly sharing knowledge through my work and ideas.  
+I hope that these open source projects will be useful to other students and hobbyists.  
 Feedback, suggestions and any improvements towards the projects are most welcome.
