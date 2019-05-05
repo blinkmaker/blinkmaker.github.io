@@ -4,14 +4,10 @@ title: About me
 subtitle: Hi. I'm Shakeel, an electronics enthusiast and student.
 ---
 
-Hi. I'm Shakeel, an electronics enthusiast and student.
-My name is Inigo Montoya. I have the following qualities:
+I have been greatly inspired by open source projects which contributed to my own learning. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My goal with this website is to promote the same mindset of openly sharing knowledge through my work and ideas. 
 
-What else do you need?
+I hope that these open source projects will be useful to other students and hobbyists. 
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feedback, suggestions and any improvements towards the projects are most welcome.
