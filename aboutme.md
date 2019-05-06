@@ -12,7 +12,7 @@ It is based on two personally meaningful words:
 * 'Maker': I am passionate about the Maker Movement and all the people contributing at various levels to share their knowledge and helping others for free! It brings together people who have the same interests and helps others discover something that they might want to get involved or feel encouraged to explore on their own.
 
 ### My inspiration
-I have been very impressed by open source projects which contributed to my own learning. My goal with this website is to promote the same mindset of openly sharing knowledge through my work and ideas. I hope that these open source projects will be useful to other electronic hobbyists, enthusiasts and students.  
+I've come across lots of very impressive projects which turned out to be fully open source and  contributed considerably to my own learning. My goal with this website is to promote the same mindset of openly sharing knowledge through my work and ideas. I hope that these open source projects will be useful to other electronic hobbyists, enthusiasts and students.  
 Feedback, suggestions and any improvements towards the projects are most welcome.
 
 ### Proudly part of the Maker Movement
