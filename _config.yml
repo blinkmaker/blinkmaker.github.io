@@ -26,8 +26,8 @@ navbar-links:
   Home: ""
   Resources:
     - Projects: "projects"
-    - Instructables: "https://www.instructables.com/member/BlinkMaker/"
     - GitHub: "https://github.com/BlinkMaker"
+    - Instructables: "https://www.instructables.com/member/BlinkMaker/"
     - Thingiverse: "https://www.thingiverse.com/BlinkMaker/designs"
     - Instagram: "https://www.instagram.com/blinkmaker/"
   About Me: "aboutme"
