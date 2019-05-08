@@ -8,7 +8,7 @@ This website is a glimpse of my progress, ideas and adventures in electronics.
 
 ### Why BlinkMaker?
 It is based on two personally meaningful words:
-* 'Blink': Getting started in electronics or working with new microcontrollers as well as learning various programming languages, usually it all starts with blinking an LED. It is like the 'Hello, World!' of programming, but for electronics.  
+* 'Blink': Electronics is a personally fascinating and a constantly evolving field of study so there's always more to discover and learn, especially if you're levelling up to work with microcontrollers and engage into programming. In the beginning, it all starts with blinking an LED - it is like the 'Hello, World!' of programming for electronics.  
 * 'Maker': I am passionate about the Maker Movement and all the people contributing at various levels to share their knowledge and helping others for free! It brings together people who have the same interests and helps others discover something that they might want to get involved or feel encouraged to explore on their own.
 
 ### My inspiration
