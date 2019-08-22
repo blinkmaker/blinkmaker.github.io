@@ -4,7 +4,7 @@ title: About me
 subtitle: Hi. I'm Shakeel, an electronics enthusiast and student.
 ---
 
-This website is a glimpse of my progress, ideas and adventures in electronics.  
+This website is a glimpse of my progress, ideas and adventures in and around electronics.  
 
 ### Why BlinkMaker?
 * **Blink**: In the beginning, it usually starts with blinking an LED - it is the 'Hello, World!' of programming for electronics.  
