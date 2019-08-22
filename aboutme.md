@@ -8,7 +8,7 @@ This website is a glimpse of my progress, ideas and adventures in and around ele
 
 ### Why BlinkMaker?
 * **Blink**: In the beginning, it usually starts with blinking an LED - it is the 'Hello, World!' of programming for electronics.  
-* **Maker**: I am passionate about the Maker Movement with the huge and growing number of contributors at various levels to share their knowledge and help others for free.
+* **Maker**: I am passionate about the [Maker culture](https://en.wikipedia.org/wiki/Maker_culture) with the huge and growing number of contributors at various levels to share their knowledge and help others for free.
 
 ### My inspiration
 I've stumbled across many impressive projects which turned out to be fully open source. The hard work by the community of makers is very inspiring and greatly appreciated. It allows anyone free access to improve their knowledge and skills. This website aims to promote the same mindset of sharing knowledge. I hope that my posts will be useful to other electronic hobbyists, enthusiasts and students.  
