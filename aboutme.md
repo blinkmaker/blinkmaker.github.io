@@ -7,7 +7,7 @@ subtitle: Hi. I'm Shakeel, an electronics enthusiast and student.
 This website is a glimpse of my progress, ideas and adventures in and around electronics.  
 
 ### Why BlinkMaker?
-* **Blink**: In the beginning, it usually starts with blinking an LED - it is the 'Hello, World!' of programming for electronics.  
+* **Blink**: It usually starts with blinking an LED - it is the 'Hello, World!' of programming for electronics.  
 * **Maker**: I am passionate about the [Maker culture](https://en.wikipedia.org/wiki/Maker_culture) with the huge and growing number of contributors at various levels to share their knowledge and help others for free.
 
 ### My inspiration
