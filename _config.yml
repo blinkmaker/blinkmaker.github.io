@@ -25,7 +25,6 @@ description: Open source DIY Electronics
 navbar-links:
   Home: ""
   Resources:
-    - Projects: "projects"
     - GitHub: "https://github.com/BlinkMaker"
     - Instructables: "https://www.instructables.com/member/BlinkMaker/"
     - Thingiverse: "https://www.thingiverse.com/BlinkMaker/designs"
