@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automated water pump relay
+title: Automated pump relay
 subtitle: Arduino UNO R3, DS1302 RTC module, 10A 250VAC relay
 ---
 
