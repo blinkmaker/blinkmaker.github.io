@@ -10,4 +10,6 @@ Project: an Arduino was programmed to turn a relay on and off for 40 seconds eve
 
 The pump relay was first not turning on if the time of operation was changed from 30 to 40 seconds. This issue was solved by fixing a bug in the datatype used. The int datatype has a limitation of holding a maximum value of 32767, which is equivalent to ms and therefore limited to 32.767 seconds. The int type was changed to long, which supports a maximum value of 2,147,483,647.
 
+The second bug had to do with the RTC time data. The initial code took into account the hour to engage the relay but not the minutes and seconds where were not necessary and caused a problem. For example, if the Arduino starts at 11:50:12, then it will activate the pump a second time at 12:00:00 which is only about 10 minutes later. This issue was fixed by resetting both the minutes and seconds and therefore taking into account only the hours data.
 
+The programming now allowed the pump to work fine. I checked every hour to oversee the pump activation for 40 seconds and then it would turn off automatically. However, the next day, i noticed that water was overflowing from the storage tank. The problem was fixed by enabling the water level sensor which was previously disabled by mistake (the red button).
