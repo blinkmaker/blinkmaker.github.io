@@ -28,6 +28,9 @@ How about a yummy crepe?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
+
+![photo](https://raw.githubusercontent.com/blinkmaker/blinkmaker.github.io/master/img/avatar-icon.png)
+
 Here's a code chunk:
 
 ~~~
