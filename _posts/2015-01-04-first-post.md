@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Algarve Fab Farm
-subtitle: Automated water pump relay
+title: Automated water pump relay
+subtitle: Arduino UNO R3, DS1302 RTC module, 10A 250VAC relay
 ---
 
 The water pump takes water from the well on the property and fills up a tank. But due to water shortages, the pump needs to be turned on for a short time regularly. The state of dealing with this issue, is to manually turn on the pump for about 30 to 40 seconds every hour. This can become quite cumbersome, so a better way is to automate the entire process. 
