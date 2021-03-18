@@ -4,7 +4,7 @@ title: About me
 subtitle: Hi. I'm Shakeel, an electronics enthusiast and student.
 ---
 
-This website is a glimpse into my electronic learning, testing and projects at various levels. My username is based on a simple combination of two words; **blink**: Getting started with electronics usually involves blinking an LED - it is like the 'Hello, World!' of programming and **maker**: I feel very inspired with the [Maker culture](https://en.wikipedia.org/wiki/Maker_culture) and the incredible talent of contributors sharing their ideas, knowledge and helping others for free.
+This website is a glimpse into my electronic learning, testing and projects at various levels. My username is based on a simple combination of two words; **blink** (getting started with electronics usually involves blinking an LED - it is like the 'Hello, World!' of programming) and **maker** (i feel very inspired with the [Maker culture](https://en.wikipedia.org/wiki/Maker_culture) and the incredible talent of contributors sharing their ideas, knowledge and helping others for free).
 
 ### My motivation
 I've stumbled across many impressive projects which surprisingly turned out to be open source. The hard work by the community of makers is admirable and no doubt appreciated. Anyone with internet access can improve their knowledge and skills. This website aims to promote the same mindset of sharing knowledge. I hope that my posts will be useful to other electronic hobbyists, enthusiasts and students. Feedback, suggestions and improvements are most welcome.
