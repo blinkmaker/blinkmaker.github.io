@@ -13,4 +13,4 @@ I have made some improvements to the original sketch by Luis Ródenas:
 2. The calibration offsets are printed out in a practical format so the results can be directly copied and pasted into the Arduino sketch.
 3. Some general minor fixes and visual improvements.
 
-Download the code from my GitHub repository.
+Download the code from my [GitHub repository](https://github.com/blinkmaker/Improved-MPU6050-calibration).
