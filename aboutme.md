@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Hi. I'm Shakeel, an electronics enthusiast.
+subtitle: Hi. I'm Shakeel, an electronics enthusiast and student.
 ---
 
 This website is a glimpse into my electronic learning, testing and projects at various levels. My username is based on a combination of two words; **blink** (getting started with electronics usually involves blinking an LED - it is like the 'Hello, World!' of programming) and **maker** (i feel very inspired with the [Maker culture](https://en.wikipedia.org/wiki/Maker_culture) and the incredible talent of contributors sharing their ideas, knowledge and helping others for free).
