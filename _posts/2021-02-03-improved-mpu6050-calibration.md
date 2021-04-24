@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Improved MPU-6050 calibration
-subtitle: Arduino sketch to find offset values
+subtitle: Arduino sketch to automatically find offset values
 bigimg: /img/path.jpg
 tags: [mpu6050, arduino, calibration]
 ---
