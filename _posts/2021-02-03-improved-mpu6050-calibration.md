@@ -15,4 +15,4 @@ I have made some improvements to the original sketch by Luis Ródenas:
 
 Download the code from my [GitHub repository](https://github.com/blinkmaker/Improved-MPU6050-calibration).
 
-I also started a blog for this project: https://stabli.blogspot.com/2019/05/improved-mpu-6050-calibration-sketch.html
+I also started a blog for this project. Feel free to check it out [here](https://stabli.blogspot.com/2019/05/improved-mpu-6050-calibration-sketch.html).
