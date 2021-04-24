@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Improved MPU-6050 calibration
+subtitle: Arduino sketch to find offset values
 bigimg: /img/path.jpg
 tags: [books, test]
 ---
