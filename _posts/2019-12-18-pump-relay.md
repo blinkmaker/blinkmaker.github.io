@@ -1,10 +1,14 @@
 ---
 layout: post
 title: Automated pump relay
-subtitle: Arduino UNO R3, DS1302 RTC module, 10A 250VAC relay
+subtitle: Configurable timer-based controller
+bigimg: /img/path.jpg
+tags: [books, test]
 ---
 
 The water pump on the Algarve Fab Farm takes water from the well on the property and fills up a tank for consumption around the farm at any time. But due to water shortages, the pump needs to be turned on for a short time regularly instead of waiting until the tank is almost empty and then doing full refills. Usually, to deal with this issue, the pump is turned on manually for about 30 to 40 seconds every hour. This can become quite cumbersome, so a better way is to automate the entire process. 
+
+Components used: Arduino UNO R3, DS1302 RTC module, 10A 250VAC relay.
 
 Project: an Arduino was programmed to turn a relay on and off for 40 seconds every hour. The relay is connected to the pump. However, to get a precise measure of time, a DS1302 RTC module was used. The whole process was then tested with some initial difficulties.
 
